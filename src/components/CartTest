@@ -1,0 +1,54 @@
+// import React from 'react'
+
+// const Cart = () :JSX.Element => {
+
+
+
+
+//   return (
+//     <>
+
+//       <div className="container">
+//         <div className="card">
+//           <ul className="product-list">
+//             {list.map((content:any) => (
+
+//               <li>
+//                 <div className="product">
+//                   <div className="product-image">
+//                     <img src={content.image} />
+//                   </div>
+//                   <div className="product-imformation">
+//                     <h4>{content.name}</h4>
+//                     <div className="specification">
+//                       <span>{content.ram} RAM</span>
+//                       <small className="line"></small>
+//                       <span>{content.ssd} SSD</span>
+//                     </div>
+//                     <span>${content.price}</span>
+//                   </div>
+//                 </div>
+//               </li>
+
+//             ))
+//             }
+
+//           </ul>
+//         </div>
+
+//       </div>
+
+//     </>
+
+
+
+
+
+
+//   )
+
+
+//           }
+
+
+//   // export default Cart
