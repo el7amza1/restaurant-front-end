@@ -10,7 +10,6 @@ import Sucsses from './pages/sucsses';
 import { useState } from 'react';
 function App() {
   const [timein, setTimein] = useState(false)
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
